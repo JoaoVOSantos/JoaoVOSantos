@@ -1,3 +1,3 @@
 - 👋 Oi, meu nome é João Vitor
-- 🌱 Estou atualmente estudando Sistemas de Informação e ja tenho alguns cursos tecnicosna area.
+- 🌱 Estou atualmente estudando Sistemas de Informação e ja tenho alguns cursos tecnicos na area.
 - 📫 Aqui estão alguns dos projetos que fiz. e me orgulho.
