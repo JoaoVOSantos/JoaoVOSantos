@@ -1,6 +1,6 @@
 - 👋 Oi, meu nome é João Vitor
 - 🌱 Estou atualmente estudando Sistemas de Informação na ITE em Bauru.
-- 📫 Meus meio de comunicação são:
+- 📫 Meus meios de comunicação são:
   - Telefone: (14) 99616-9061
   - Email: jvde.olivera@gmail.com
   - LinkedIn: linkedin.com/in/joaovosantos/
